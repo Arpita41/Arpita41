@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/Arpita41/Arpita41/blob/main/WhatsApp%20Image%202026-03-24%20at%208.14.03%20PM.jpeg?raw=true" />
+</p>
 
 <!--
 **Arpita41/Arpita41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
