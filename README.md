@@ -27,7 +27,7 @@ I enjoy building responsive and user-friendly web applications and continuously 
 </p>
 
 ## 🌐 Connect with Me
-
+Linkedin: www.linkedin.com/in/arpita-barua-arpa
 <p align="center">
   <a href="www.linkedin.com/in/arpita-barua-arpa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
