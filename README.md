@@ -4,17 +4,34 @@
   <img src="https://github.com/Arpita41/Arpita41/blob/main/WhatsApp%20Image%202026-03-24%20at%208.14.03%20PM.jpeg?raw=true" />
 </p>
 
-<!--
-**Arpita41/Arpita41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Arpita Barua
+### 💻 Aspiring Full Stack Web Developer | CSE Graduate | MSc Student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+I am a passionate Full Stack Web Developer and CSE graduate currently pursuing my MSc.  
+I enjoy building responsive and user-friendly web applications and continuously improving my skills in modern technologies.
+
+---
+## 🚀 Current Activities 
+- 🌱 I’m exploring Next.js and AI  
+- 💡 Practicing problem solving and JavaScript  
+- 🎯 Building real-world projects  
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,tailwind,nextjs,AI" />
+</p>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/arpita-barua-arpa">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
